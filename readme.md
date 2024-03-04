@@ -4,5 +4,6 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 ### Diagram Class
 https://mermaid.js.org/
 
----
-title 
+### Modularidad
+
+![alt text](image.png)
