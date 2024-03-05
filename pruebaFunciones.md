@@ -49,3 +49,9 @@ def myDiv(id:str, *clas:str, content:str)->
 
 def main():
     print(myDiv("midiv","but_h1","row","clear",content="Lorem ipsum"))
+
+
+### Ejercicio 5
+
+def myScrip(*src:src)->Str:
+Funcion que tuene como entrada un numero indeterminado de cadena de caracteres y como salida una cadena de caracteres. Probablemente transforma las entradas y la salida
