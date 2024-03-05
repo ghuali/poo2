@@ -46,3 +46,6 @@ def myDiv(id:str, *clas:str, content:str)->
 
     resultado += '>0 + content + '</div>' 
     resultado return
+
+def main():
+    print(myDiv("midiv","but_h1","row","clear",content="Lorem ipsum"))
