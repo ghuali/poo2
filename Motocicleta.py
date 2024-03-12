@@ -1,3 +1,3 @@
-import Vehiculo
-class Motocicleta(Vehiculo):
+import Bicicleta
+class Motocicleta(Bicicleta):
     pass
