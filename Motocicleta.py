@@ -1,3 +1,3 @@
-import Bicicleta
-class Motocicleta(Bicicleta):
+from Bicicleta import Bicicletas
+class Motocicletas(Bicicletas):
     pass

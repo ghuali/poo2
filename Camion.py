@@ -1,3 +1,3 @@
-import Automovil
-class Camion(Automovil):
+from Automovil import Automoviles
+class Camiones(Automoviles):
     pass
